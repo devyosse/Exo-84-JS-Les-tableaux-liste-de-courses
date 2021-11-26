@@ -12,10 +12,8 @@ let articles = [
 
 // Votre code à partir d'ici :
 
+const list = document.querySelector('#listeCourse');
 
-
-
-
-
-
-
+for(let article of articles) {
+    const articleElement
+}
